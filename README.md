@@ -1,10 +1,11 @@
-# Fetch Project
-ACA Week 10 Fetch Project
+# React Fetch Project
 
-API - The Movie DB Blog
+API - The Movie DB
 
-Displays top 20 movies, tv shows and people based on query keyword(s)
+Includes dynamic search option with user input
+
+Displays top 20 movies and tv shows based on query keyword(s)
 
 'Deep Search' explores content beyond titles, including overview (plot)
 
-Includes Dynamic Search Option with User Input
+Handles differing data types between movie and tv result
