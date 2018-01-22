@@ -9,7 +9,6 @@
     "build": "webpack-dev-server",
     "deploy": "webpack",
     "start": "./node_modules/webpack/bin/webpack.js && node server.js",
-    "postinstall": "postinstall-build lib"
   },
   "repository": {
     "type": "git",
