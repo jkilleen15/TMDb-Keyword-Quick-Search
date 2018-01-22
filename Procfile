@@ -1,1 +1,1 @@
-web: npm start script.jsx
+web: npm start
