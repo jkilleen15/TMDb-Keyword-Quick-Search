@@ -27,6 +27,7 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.7",
     "eslint": "^4.6.1",
+    "express": "^4.16.2",
     "module": "^1.2.5",
     "moviedb": "^0.2.10",
     "react": "^15.6.1",
