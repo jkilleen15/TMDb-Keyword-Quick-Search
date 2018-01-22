@@ -201,7 +201,7 @@ module.exports = warning;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -579,7 +579,7 @@ module.exports = ExecutionEnvironment;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 function makeEmptyFunction(arg) {
@@ -619,7 +619,7 @@ module.exports = emptyFunction;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -900,7 +900,7 @@ module.exports = ReactUpdates;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -1206,7 +1206,7 @@ function getPooledWarningPropertyDefinition(propName, getVal) {
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -2302,7 +2302,7 @@ module.exports = DOMLazyTree;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -2892,7 +2892,7 @@ module.exports = emptyObject;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -3771,7 +3771,7 @@ module.exports = __webpack_require__(96);
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -4256,7 +4256,7 @@ module.exports = EventPluginUtils;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -4912,7 +4912,7 @@ module.exports = LinkedValueUtils;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -4960,7 +4960,7 @@ module.exports = ReactComponentEnvironment;
  * LICENSE file in the root directory of this source tree.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
@@ -5075,7 +5075,7 @@ module.exports = shouldUpdateReactComponent;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6045,7 +6045,7 @@ module.exports = ReactNoopUpdateQueue;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6074,7 +6074,7 @@ module.exports = canDefineProperty;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6144,7 +6144,7 @@ module.exports = ReactDOMComponentFlags;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6205,7 +6205,7 @@ module.exports = accumulateInto;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6275,7 +6275,7 @@ module.exports = getTextContentAccessor;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6397,7 +6397,7 @@ module.exports = PooledClass.addPoolingTo(CallbackQueue);
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -6548,7 +6548,7 @@ module.exports = inputValueTracking;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -7636,7 +7636,7 @@ module.exports = instantiateReactComponent;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -7962,7 +7962,7 @@ module.exports = traverseAllChildren;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -9215,7 +9215,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react_dom__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Fetch_Fetch_jsx__ = __webpack_require__(172);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2___Fetch_jsx__ = __webpack_require__(172);
 
 
 
@@ -9497,7 +9497,7 @@ module.exports = ReactChildren;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -9791,7 +9791,7 @@ module.exports = traverseAllChildren;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -9835,7 +9835,7 @@ module.exports = getIteratorFn;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -12845,7 +12845,7 @@ module.exports = ChangeEventPlugin;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -12937,7 +12937,7 @@ module.exports = ReactRef;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -15334,7 +15334,7 @@ module.exports = hyphenate;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  * @typechecks static-only
  */
 
@@ -15825,7 +15825,7 @@ module.exports = ReactDOMInput;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -17642,7 +17642,7 @@ module.exports = ReactCompositeComponent;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -17666,7 +17666,7 @@ module.exports = getNextDebugID;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -17689,7 +17689,7 @@ module.exports = REACT_ELEMENT_TYPE;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -17733,7 +17733,7 @@ module.exports = getIteratorFn;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -17906,7 +17906,7 @@ module.exports = ReactServerRenderingTransaction;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -19198,7 +19198,7 @@ module.exports = getNodeForCharacterOffset;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 var isTextNode = __webpack_require__(151);
@@ -19791,7 +19791,7 @@ module.exports = SelectEventPlugin;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -20638,7 +20638,7 @@ module.exports = ReactMarkupChecksum;
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  *
- * 
+ *
  */
 
 
@@ -21074,9 +21074,9 @@ module.exports = function(useSourceMap) {
 					item[2] = mediaQuery;
 				} else if(mediaQuery) {
 					item[2] = "(" + item[2] + ") and (" + mediaQuery + ")";
-				}
-				list.push(item);
 			}
+				list.push(item);
+      }
 		}
 	};
 	return list;
@@ -21111,7 +21111,7 @@ function toComment(sourceMap) {
 }
 
 
-/***/ }),
+/***/ }), // HERE
 /* 175 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21706,8 +21706,8 @@ MovieDB.prototype.session = function(fn){
     } else {
       if (res.body.success) {
         self.session_id = res.body.session_id;
-        fn();   
-      } 
+        fn();
+      }
       else fn(res.body);
     }
   });
@@ -21734,10 +21734,10 @@ Object.keys(endpoints.methods).forEach(function(method){
         this.requestToken(function(err){
           if(err) return fn(err);
           execMethod.call(self, met[m].method, params, met[m].resource, fn);
-        });    
+        });
       } else {
         execMethod.call(this, met[m].method, params, met[m].resource, fn);
-      } 
+      }
 
       return this;
     };
@@ -21748,14 +21748,14 @@ var execMethod = function(type, params, endpoint, fn){
   params = params || {};
   endpoint = endpoint.replace(':id', params.id).replace(':season_number', params.season_number).replace(':episode_number', params.episode_number);
   type = type.toUpperCase();
-  
+
   var req = request(type, endpoints.base_url + endpoint)
             .query({api_key : this.api_key, session_id: this.session_id})
             .set('Accept', 'application/json');
-  
+
   if (params.ifNoneMatch) {
     req=req.set('If-None-Match', params.ifNoneMatch);
-    
+
   } else if (params.ifModifiedSince) {
     var t=params.ifModifiedSince;
     if (t.toUTCString) {
