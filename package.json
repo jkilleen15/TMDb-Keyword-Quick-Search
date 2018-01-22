@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack-dev-server",
     "deploy": "webpack",
-    "start": "./node_modules/webpack/bin/webpack.js --progress && node server.js"
+    "start": "./node_modules/webpack/bin/webpack.js --progress && node server.js",
+    "postinstall": "postinstall-build lib"
   },
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
     "express": "^4.16.2",
     "module": "^1.2.5",
     "moviedb": "^0.2.10",
+    "postinstall-build": "^5.0.1",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-fetch": "0.0.9",
