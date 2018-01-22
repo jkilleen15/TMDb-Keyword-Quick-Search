@@ -8,13 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack-dev-server",
     "deploy": "webpack",
-    "start": "webpack-dev-server"
+    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jkilleen15/TMDb-Quick-Search"
   },
-  "author": "",
+  "author": "jkilleen15",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mxviteri/fetchProject/issues"
