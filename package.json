@@ -19,13 +19,13 @@
   "bugs": {
     "url": "https://github.com/mxviteri/fetchProject/issues"
   },
-  "homepage": "https://github.com/mxviteri/fetchProject#readme",
+  "homepage": "https://github.com/jkilleen15/TMDb-Quick-Search#readme",
   "dependencies": {
-    "babel-install": "2.1.0", 
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.0",
     "babel-loader": "^7.1.2",
     "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2",
     "css-loader": "^0.28.7",
     "eslint": "^4.6.1",
     "express": "^4.16.2",
