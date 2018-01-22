@@ -1,5 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
+// let host = '0.0.0.0';
 // import oilRoutes from './routes/OilRoutes';
 // import mongoose from 'mongoose';
 
@@ -11,9 +12,9 @@ const myMovieServer = express();
 myMovieServer.use(bodyParser.json());
 // myMovieServer.use(oilRoutes);
 
-const port = process.env.PORT || 8080;
-myMovieServer.listen(port, () => {
-  console.log(`Listening on port:${port}`);
+const PORT = process.env.PORT || 8080;
+myMovieServer.listen(PORT, () => {
+  console.log(`Listening on port:${PORT}`);
 });
 
 /*
